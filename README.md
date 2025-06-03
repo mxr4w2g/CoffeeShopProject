@@ -1,7 +1,7 @@
 # CoffeeShopProject
 
 Overview:
-This project is designed for coffee enthusiasts to order their favorite coffee products and write reviews. Created as part of a collaborative project by a team of five, the site offers a streamlined experience for online coffee purchasing.
+This project is designed for coffee enthusiasts to order their favorite coffee products and write reviews. The site offers a streamlined experience for online coffee purchasing.
 
 Features:
 Online Ordering: Users can browse, select, and purchase various coffee products directly from the site. Coffee Reviews: Helping users to make informed choices.
